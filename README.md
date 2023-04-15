@@ -4,7 +4,7 @@
 
 This data is built from ACS Census data 2017-2021, ACS Census 2007,2021 as well as DCAD parcel data. 
 
-[Spreadsheet of the data here.](all_data.xlsx)
+[Download the data here.](https://github.com/cgilchriest-dcccd/oak-cliff-demographic-change/raw/main/all_data.xlsx)
 
 ## Map of Change in Hispanic Population in Oak Cliff, 2011-2021
 ![Change in Hispanic Population](Change_in_Hispanic_Population.png)
